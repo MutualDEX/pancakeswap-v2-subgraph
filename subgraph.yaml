@@ -1,5 +1,5 @@
 specVersion: 0.0.2
-description: PancakeSwap is a decentralized protocol for automated token exchange on Binance Smart Chain.
+description: BigSwap is a decentralized protocol for automated token exchange on Binance Smart Chain.
 repository: https://github.com/bscnodes/pancakeswap-v2-subgraph
 schema:
   file: ./schema.graphql
@@ -8,7 +8,7 @@ dataSources:
     name: Factory
     network: mainnet
     source:
-      address: '0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73'
+      address: '0x6b549d011FA0409B12329b618214837c0735dB85'
       abi: Factory
       startBlock: 6809737
     mapping:
